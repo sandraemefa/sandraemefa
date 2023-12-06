@@ -6,7 +6,7 @@ My interest is in;
 - Machine learning algorithms ( Regression, classification)
 - Data visualization (libraries: seaborn, Matplotlib)
   
-  I’m currently learning clustering and deep learning. I have a strong belief in the power of collaboration, hence lets connect, innovate, and build a data-driven future together. 
+  I’m currently learning clustering and deep learning. I have a strong belief in the power of collaboration, hence let's connect, innovate, and build a data-driven future together. 
   
    How to reach me _ linkedin.com/in/sandra-emefa-kumah-524473223 or skumah028@gmail.com
 
