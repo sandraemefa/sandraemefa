@@ -1,4 +1,4 @@
-Hello, I,m Sandra Kumah, a passionate data enthusiast experienced in transforming raw data into meaningful sight and
+Hello, I'm Sandra Kumah, a passionate data enthusiast experienced in transforming raw data into meaningful sight and
 unraveling complex data to explore the vast landscapes of machine learning.
 My interest is in;
 
